@@ -1,0 +1,1 @@
+First time creating a text file in Git.
